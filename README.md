@@ -15,4 +15,4 @@ Parameters:
 
 Example: 
 
-`contig_flank_pos.R "example.txt" "contig1:" "5"
+```contig_flank_pos.R "example.txt" "contig1:" "5"```
